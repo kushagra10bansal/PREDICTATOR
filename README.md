@@ -40,7 +40,7 @@ From datasets [international_matches.csv](https://github.com/davidcamilo0710/QAT
 
 ![download-6](https://user-images.githubusercontent.com/60159274/193368516-68e21bf6-bc91-4759-80d9-767271dc0636.png)
 
-* Who are the best players in Qatar 2022?
+* Who are the best players?
 
 ![download-2](https://user-images.githubusercontent.com/60159274/193378980-b2302754-6514-449d-b890-cce0a716a519.png)
 
