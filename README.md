@@ -1,4 +1,5 @@
 <img width="521" height="130" alt="image" src="https://github.com/user-attachments/assets/cf66e0da-b77f-4790-9c8a-5d021f9113e9" />
+
 ![Captura de pantalla 2023-11-12 211014](https://github.com/davidcamilo0710/QATAR_2022_Prediction/assets/60159274/3a1046cd-7cdb-404f-8f6e-b96f3c576494)
 
 
